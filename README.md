@@ -74,5 +74,5 @@ En tant que Lead Developer Fullstack sur ce projet, j'ai architecturé des solut
 
 <div align="center">
   <p>💡 <i>Conçu et développé avec passion et rigueur par Amaury Lecoq.</i></p>
-  <p><a href="mailto:ton_adresse_mail@email.com">Me contacter</a> • <a href="lien_vers_ton_linkedin">LinkedIn</a></p>
+  <p><a href="amaury.lcq@outlook.fr">Me contacter</a></p>
 </div>
