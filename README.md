@@ -38,11 +38,9 @@ La plupart des applications de voyage se contentent de lister des lieux. **Vadro
 
 ## 📱 Aperçu de l'Application
 
-| 🏠 Accueil (Explorer) | 📍 Détails du Voyage | 🗺️ Itinéraire & Carte | ✍️ Création | 👤 Profil |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Accueil](lien_image_1.png) | ![Détails](lien_image_2.png) | ![Carte](lien_image_3.png) | ![Création](lien_image_4.png) | ![Profil](lien_image_5.png) |
-
-> *(Remplace les `lien_image_X.png` par les vraies URLs de tes captures d'écran).*
+| 🏠 Accueil (Explorer) | 🛫 Détails du Voyage | 📍 Steps  | 🗺️ Itinéraire & Carte | ✍️ Création | 👤 Profil |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![Accueil](IMG_1131.PNG) | ![Détails](IMG_1132.PNG) | ![Steps](IMG_1133.PNG) | ![Carte](IMG_1136.PNG) | ![Création](IMG_1138.PNG) | ![Profil](IMG_1134.PNG) |
 
 ---
 
